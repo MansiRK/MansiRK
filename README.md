@@ -117,7 +117,7 @@
 
 ### :t: My Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
   ![Snake animation](https://github.com/thepiyushmalhotra/MansiRK/blob/output/github-contribution-grid-snake.svg)
 
