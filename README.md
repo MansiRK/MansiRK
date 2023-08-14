@@ -91,7 +91,7 @@
 
 <p align="left"> 
 
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>    <a href="https://chai.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt="chai" width="40" height="40"/> </a> 
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://chai.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt="chai" width="40" height="40"/> </a> 
 
 </p>
 
