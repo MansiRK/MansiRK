@@ -38,7 +38,7 @@
  <h3> i'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </h3>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :laptop: I'm a programmer with the knowledge of both frontend and backend.
 
 - :seedling: Exploring Technical Content Writing.
 
