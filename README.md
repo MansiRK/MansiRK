@@ -1,4 +1,4 @@
-
+![image](https://github.com/MansiRK/MansiRK/assets/113781741/2fe78aac-80d6-4a94-a7e0-5b573a3043d4)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
@@ -88,7 +88,7 @@
 
 <a href="https://www.vscode.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="figma" width="40" height="40"/> </a>
 
-<a href="https://www.pycharm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.pycharm.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="figma" width="40" height="40"/> </a>
   
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/canva.svg" alt="canva" width="40" height="40"/> </a> </p>
 
@@ -117,3 +117,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansirk" alt="mansirk" /></a> </p>
 
   ![Snake animation](https://github.com/thepiyushmalhotra/MansiRK/blob/output/github-contribution-grid-snake.svg)
+
+  
+
+  
