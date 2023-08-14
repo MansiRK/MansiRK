@@ -16,7 +16,7 @@
   </span>
 </div>
 
-<div align = "center">
+<div id = "profile-views" align = "center">
  <img src="https://komarev.com/ghpvc/?username=MansiRK&style=flat-square&color=red" alt="" /> 
 </div>
 
@@ -26,8 +26,8 @@
 </h2>
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg" width="800" height="500"/>
+<div id= "banner" align="center">
+  <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="500"/>
 </div>
 
 ---
