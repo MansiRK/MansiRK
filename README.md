@@ -51,8 +51,10 @@
 - 😄 Pronouns: She/Her
   
 - ⚡ Fun fact: I like to paint in my free time 🖌️
-### :hammer_and_wrench:
-<h2 align="left">Languages and Tools:</h2>
+
+  
+### :hammer_and_wrench: Languages and Tools:
+<div id="Tools" align="left">
 
 <h4> Front-end: </h4>
 
@@ -102,7 +104,7 @@
 <a href="https://www.windows.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="windows" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 </p>
-
+</div>
 ---
 
 ### :fire: My Stats :
