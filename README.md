@@ -51,7 +51,7 @@
 - 😄 Pronouns: She/Her
   
 - ⚡ Fun fact: I like to paint in my free time 🖌️
-
+### :hammer_and_wrench:
 <h2 align="left">Languages and Tools:</h2>
 
 <h4> Front-end: </h4>
@@ -103,6 +103,9 @@
 
 </p>
 
+---
+
+### :fire: My Stats :
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansirk" alt="mansirk" /></a> </p>
 
