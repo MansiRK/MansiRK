@@ -18,10 +18,10 @@
  <img src="https://komarev.com/ghpvc/?username=MansiRK&style=flat-square&color=red" alt="" /> 
 </div>
 
-<h1>
+<h2 align="center">
   Hii there, I'm Mansi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 <!--
 **MansiRK/MansiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
