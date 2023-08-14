@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Mansi Kamble
+location: Maharashtra, India
+
 
 ```
 <h3 align="left">Languages and Tools:</h3>
