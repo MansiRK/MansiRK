@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
 
-LinkedIn-Blue
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 <!--
 **MansiRK/MansiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
