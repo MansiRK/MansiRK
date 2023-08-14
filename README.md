@@ -1,4 +1,4 @@
-![image](https://github.com/MansiRK/MansiRK/assets/113781741/22f0e23c-330a-47cd-9830-32f5fac7341e)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
