@@ -42,7 +42,7 @@
 
 - 🧑‍🎓: Bachelor's of Engineering in Computer Science.
 
-- :mailbox:How to reach me:  <a href="mansikamble1110@gmail.com">
+- :mailbox:How to reach me:  <a p3 href="mansikamble1110@gmail.com">
     <img src="https://img.shields.io/badge/Mail-green?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
   </a>
 
