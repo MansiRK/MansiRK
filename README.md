@@ -35,10 +35,10 @@
 
 ### :woman_technologist: About Me :
 <div>
- <h3> i'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </h3>
+ <h3> I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </h3>
 </div>
 
-- 💻: I'm a programmer with the knowledge of both frontend and backend.
+- 💻: I'm a web developer with a vast knowlege of different front end and back end languages, responsive frameworks and databases.
 
 - :seedling: Exploring Technical Content Writing.
 
