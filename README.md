@@ -40,11 +40,11 @@
 
 - 💻: I'm a web developer with a vast knowlege of different front end and back end languages, responsive frameworks and databases.
 
-- :seedling: Exploring Technical Content Writing.
+- 🤖: Exploring different technologies like Artificial Intelligence.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🧑‍🎓: Bachelor's of Engineering in Computer Science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![GMail Badge](https://img.shields.io/badge/-mansirk-blue?style=flat&logo=LGmail&logoColor=white)](mansikamble1110@gmail.com)
 
 
 
