@@ -115,7 +115,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansirk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :t: My Trophies :
+### 🏆: My Trophies :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
