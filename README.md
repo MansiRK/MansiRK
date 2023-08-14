@@ -25,8 +25,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-
-
 <div id= "banner" align="center">
   <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="500"/>
 </div>
@@ -123,7 +121,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  ![Snake animation](https://github.com/thepiyushmalhotra/MansiRK/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mansirk/mansirk/blob/output/github-contribution-grid-snake.svg)
 
   
 
