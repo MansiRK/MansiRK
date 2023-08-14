@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=MansiRK&style=flat-square&color=pink" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MansiRK&style=flat-square&color=red" alt=""/>
 <!--
 **MansiRK/MansiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
