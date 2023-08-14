@@ -5,12 +5,9 @@
 </div>
 
 <div id="badges" align = "center">
+  <h4>Find me here</h4>
   <a href="www.linkedin.com/in/mansi-kamble">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
