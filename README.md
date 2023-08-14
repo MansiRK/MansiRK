@@ -25,6 +25,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansirk" alt="mansirk" /></a> </p>
 
 <div id= "banner" align="center">
   <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="500"/>
@@ -34,7 +35,7 @@
 
 ### :woman_technologist: About Me :
 <div>
- <h3> I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </h3>
+ <h3> i'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </h3>
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
