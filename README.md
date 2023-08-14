@@ -1,5 +1,3 @@
-![image](https://github.com/MansiRK/MansiRK/assets/113781741/2fe78aac-80d6-4a94-a7e0-5b573a3043d4)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150"/>
 </div>
@@ -95,7 +93,7 @@
 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 
-<a href="https://chai.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chai/chai-icon.svg" alt="chai" width="40" height="40"/> </a> 
+<a href="https://chai.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/chai-logo-F349805F7D-seeklogo.com.png" alt="chai" width="40" height="40"/> </a> 
 
 </p>
 
