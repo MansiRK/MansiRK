@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div align-item = "center">
+<div align = "center">
  <img src="https://komarev.com/ghpvc/?username=MansiRK&style=flat-square&color=red" alt="" /> 
 </div>
 
