@@ -9,6 +9,10 @@
   <a href="www.linkedin.com/in/mansi-kamble">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <a href="https://pin.it/5eH04LT">
+    <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
+  </a>
   </span>
 </div>
 
