@@ -5,7 +5,6 @@
 </div>
 
 <div id="badges" align = "center">
-  <span> <h4>Find me here</h4>
   <a href="www.linkedin.com/in/mansi-kamble">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +12,6 @@
   <a href="https://pin.it/5eH04LT">
     <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
-  </span>
 </div>
 
 <div id = "profile-views" align = "center">
@@ -44,7 +42,7 @@
 
 - 🧑‍🎓: Bachelor's of Engineering in Computer Science.
 
-- :mailbox:How to reach me: [![GMail Badge](https://img.shields.io/badge/-mansirk-blue?style=flat&logo=LGmail&logoColor=white)](mansikamble1110@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-mansirk-blue?style=flat&logo=LGmail&logoColor=white)](mansikamble1110@gmail.com)
 
 
 
