@@ -20,13 +20,11 @@
   Hii there, I'm Mansi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-<!--
-**MansiRK/MansiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <div align="center">
   <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="500"/>
 </div>
-
 
 ---
 
@@ -43,6 +41,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -53,4 +52,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
