@@ -26,7 +26,7 @@
 **MansiRK/MansiRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
-  <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="600" height="300"/>
+  <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="500"/>
 </div>
 ---
 
