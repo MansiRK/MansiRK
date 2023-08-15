@@ -113,12 +113,12 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mansirk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MansiRK&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansirk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MansiRK&layout=compact&theme=vision-friendly-dark)](https://github.com/MansiRK/github-readme-stats)
 
 ### 🏆: My Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=mansirk&theme=onedark)](https://github.com/mansirk/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MansiRK&theme=onedark)](https://github.com/MansiRK/github-profile-trophy)
 
 ![snake gif](https://github.com/MansiRK/MansiRK/blob/output/github-contribution-grid-snake.svg)
 
