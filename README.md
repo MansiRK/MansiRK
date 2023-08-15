@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://pin.it/5eH04LT">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=pinterest&logoColor=white" alt="Insta Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
 </div>
 
