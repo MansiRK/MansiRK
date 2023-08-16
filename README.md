@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
   </a>
 
-  <a href="https://pin.it/5eH04LT">
+  <a href="https://instagram.com/__mansi.rk__">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
 </div>
