@@ -120,6 +120,7 @@
 ### 🏆: My Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=MansiRK&theme=onedark)](https://github.com/MansiRK/github-profile-trophy)
 
+### 🐍: Snake eating my contribution graph :
 ![snake gif](https://github.com/MansiRK/MansiRK/blob/output/github-contribution-grid-snake.gif)
 
   
