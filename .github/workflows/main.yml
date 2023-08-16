@@ -15,4 +15,3 @@
             user_name: MansiRK
             # Text on contribution graph 
             text: Mansi
-       - uses: jasineri/simple-push-action@v1
