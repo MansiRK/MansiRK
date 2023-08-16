@@ -26,7 +26,7 @@
 </h2>
 
 <div id= "banner" align="center">
-  <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="500"/>
+  <img src="https://i.pinimg.com/564x/6f/87/2e/6f872e3ca7ad565c0a2904a47f08f6e5.jpg" width="800" height="400"/>
 </div>
 
 ---
