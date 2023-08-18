@@ -118,7 +118,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MansiRK&theme=dark&background=000000)](https://github.com/MansiRK/github-readme-stats)
 
 ### 🏆: My Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=MansiRK&theme=dark&background=000000)](https://github.com/MansiRK/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MansiRK&theme=dracula)](https://github.com/MansiRK/github-profile-trophy)
 
 ### 🎨 : Gitartwork:
 ![gitartwork](gitartwork.svg)
