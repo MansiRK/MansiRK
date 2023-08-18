@@ -115,7 +115,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MansiRK&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MansiRK)](https://github.com/MansiRK/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MansiRK&theme=dracula)](https://github.com/MansiRK/github-readme-stats)
 
 ### 🏆: My Trophies :
 [![trophy](https://github-profile-trophy.vercel.app/?username=MansiRK&theme=onedark)](https://github.com/MansiRK/github-profile-trophy)
